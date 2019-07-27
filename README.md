@@ -1,2 +1,6 @@
 # C-project
 Recieved 100% for my C project, programming a bot to play a modified version of connect 4. 
+
+# Project Outline
+Connect Four is a strategy game where two players take turns placing tokens into a board, with the goal of forming a straight line (either horizontal, vertical or diagonal) of at least four tokens in a row.  Connect Four was first sold by the Milton Bradley board game company in 1974. The ENGGEN131 variant of Connect Four Typically, players place tokens at the top of the board which fall down to occupy the lowest available space in each column.  As Connect Four is usually played on earth, gravity is used to implement this element of the game.  For more information on how this works, refer to https://en.wikip
+edia.org/wiki/Gravity.  In a future where colonies on Mars and long-distance space travel are becoming increasingly likely, a different variant of the game is needed.  For this project, you will be implementing a version of Connect Four where a token can be placed into any one of the four sides of the board, and the token slides into the board, along the row or column, until it either reaches the opposite side of the board, or collides with an existing token, or collides with a fixed piece on the board. 
